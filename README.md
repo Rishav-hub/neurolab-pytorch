@@ -1,4 +1,4 @@
-# neurolab--pytorch
+# neurolab-pytorch
 ![image](https://user-images.githubusercontent.com/57321948/196933065-4b16c235-f3b9-4391-9cfe-4affcec87c35.png)
 
 Requirements -:
@@ -10,20 +10,19 @@ Requirements -:
 ### How to Run
 
 - Given all the packages are installed.
-- Install some of the dependencies-: 
+- Step -: Install the requirements
     ```
     pip install -r requirements.txt
     ```
-
-- Torch Example 
+- Step 2 -: Torch Example 
     ```
     python torch_example.py
     ```
-- Torchvision Example
+- Step 3-: Torchvision Example
     ```
     python torchvision_example.py
     ```
-- Torchaudio Example
+- Step 4-: Torchaudio Example
     ```
     python torchaudio_example.py
     ```
