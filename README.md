@@ -10,7 +10,7 @@ Requirements -:
 ### How to Run
 
 - Given all the packages are installed.
-- Step -: Install the requirements
+- Step 1 -: Install the requirements
     ```
     pip install -r requirements.txt
     ```
