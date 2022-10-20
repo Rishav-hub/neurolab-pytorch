@@ -14,7 +14,3 @@
     ```
     python torchvision_example.py
     ```
-- Step 4-: Torchaudio Example
-    ```
-    python torchaudio_example.py
-    ```
